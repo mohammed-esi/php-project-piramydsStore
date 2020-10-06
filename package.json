@@ -1,0 +1,15 @@
+{
+  "name": "simple-store",
+  "version": "1.0.0",
+  "description": "this is interface it content a website store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Elamine",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "wow.js": "^1.2.2"
+  }
+}
